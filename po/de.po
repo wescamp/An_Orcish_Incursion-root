@@ -1,17 +1,15 @@
+# 
 msgid ""
 msgstr ""
 "Project-Id-Version: Orcish_Incursion 0.1\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-04-24 18:19+0200\n"
-"PO-Revision-Date: 2006-04-20 18:55+0100\n"
+"POT-Creation-Date: 2006-04-24 20:28+0200\n"
+"PO-Revision-Date: 2006-04-24 20:30+0200\n"
 "Last-Translator: David Philippi <david@torangan.de>\n"
 "Language-Team: de <david@torangan.de>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Poedit-Language: German\n"
-"X-Poedit-Country: GERMANY\n"
-"X-Poedit-SourceCharset: utf-8\n"
 
 #: An_Orcish_Incursion.cfg:10
 msgid "An Orcish Incursion"
@@ -49,67 +47,7 @@ msgstr ""
 msgid "Defend the Forest"
 msgstr "Verteidigt den Wald"
 
-#: An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:28
-#: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:28
-#: An_Orcish_Incursion/scenarios/2_Assassins.cfg:28
-#: An_Orcish_Incursion/scenarios/7_Showdown.cfg:28
-#: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:28
-#: An_Orcish_Incursion/scenarios/3_Wasteland.cfg:28
-#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:28
-msgid "Dawn"
-msgstr ""
-
-#: An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:40
-#: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:40
-#: An_Orcish_Incursion/scenarios/2_Assassins.cfg:40
-#: An_Orcish_Incursion/scenarios/7_Showdown.cfg:40
-#: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:40
-#: An_Orcish_Incursion/scenarios/3_Wasteland.cfg:40
-#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:40
-msgid "Morning"
-msgstr ""
-
-#: An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:51
-#: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:51
-#: An_Orcish_Incursion/scenarios/2_Assassins.cfg:51
-#: An_Orcish_Incursion/scenarios/7_Showdown.cfg:51
-#: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:51
-#: An_Orcish_Incursion/scenarios/3_Wasteland.cfg:51
-#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:51
-msgid "Afternoon"
-msgstr ""
-
-#: An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:62
-#: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:62
-#: An_Orcish_Incursion/scenarios/2_Assassins.cfg:62
-#: An_Orcish_Incursion/scenarios/7_Showdown.cfg:62
-#: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:62
-#: An_Orcish_Incursion/scenarios/3_Wasteland.cfg:62
-#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:62
-msgid "Dusk"
-msgstr ""
-
-#: An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:74
-#: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:74
-#: An_Orcish_Incursion/scenarios/2_Assassins.cfg:74
-#: An_Orcish_Incursion/scenarios/7_Showdown.cfg:74
-#: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:74
-#: An_Orcish_Incursion/scenarios/3_Wasteland.cfg:74
-#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:74
-msgid "First Watch"
-msgstr ""
-
-#: An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:85
-#: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:85
-#: An_Orcish_Incursion/scenarios/2_Assassins.cfg:85
-#: An_Orcish_Incursion/scenarios/7_Showdown.cfg:85
-#: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:85
-#: An_Orcish_Incursion/scenarios/3_Wasteland.cfg:85
-#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:85
-msgid "Second Watch"
-msgstr ""
-
-#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:171
+#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:183
 msgid ""
 "Hint:\n"
 "Elves can move fast and safely among the trees. Pick off the enemy grunts "
@@ -120,31 +58,31 @@ msgstr ""
 "feindlichen Grunzer aus der Sichheit des Waldes heraus mit Euren "
 "Bogenschützen."
 
-#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:174
+#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:186
 msgid "Defeat Urugha"
 msgstr "Besiegt Urugha"
 
-#: An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:221
-#: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:143
-#: An_Orcish_Incursion/scenarios/2_Assassins.cfg:165
-#: An_Orcish_Incursion/scenarios/7_Showdown.cfg:182
-#: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:169
-#: An_Orcish_Incursion/scenarios/3_Wasteland.cfg:163
-#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:178
+#: An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:233
+#: An_Orcish_Incursion/scenarios/3_Wasteland.cfg:175
+#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:190
+#: An_Orcish_Incursion/scenarios/2_Assassins.cfg:177
+#: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:181
+#: An_Orcish_Incursion/scenarios/7_Showdown.cfg:194
+#: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:155
 msgid "Death of Erlornas"
 msgstr "Erlornas fällt in der Schlacht"
 
-#: An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:225
-#: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:151
-#: An_Orcish_Incursion/scenarios/2_Assassins.cfg:169
-#: An_Orcish_Incursion/scenarios/7_Showdown.cfg:186
-#: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:177
-#: An_Orcish_Incursion/scenarios/3_Wasteland.cfg:167
-#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:182
+#: An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:237
+#: An_Orcish_Incursion/scenarios/3_Wasteland.cfg:179
+#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:194
+#: An_Orcish_Incursion/scenarios/2_Assassins.cfg:181
+#: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:189
+#: An_Orcish_Incursion/scenarios/7_Showdown.cfg:198
+#: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:163
 msgid "Time runs out"
 msgstr "Rundenlimit überschritten"
 
-#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:198
+#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:210
 msgid ""
 "Look, Erlornas! A war party of orcs has encamped to the north. They are "
 "destroying the forest there!"
@@ -152,7 +90,7 @@ msgstr ""
 "Sieh nur, Erlornas. Ein Kriegstrupp der Orks hat im Norden ein Lager "
 "errichtet. Sie zerstören den Wald dort!"
 
-#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:203
+#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:215
 msgid ""
 "I see them... we should be able to drive them off. All the same, you had "
 "best send for reinforcements, Lomarfel."
@@ -160,11 +98,11 @@ msgstr ""
 "Ich sehe sie. Wir sollten in der Lage sein, sie zu vertreiben. Dessen "
 "ungeachtet, solltet ihr Verstärkung rufen, Lomarfel."
 
-#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:208
+#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:220
 msgid "Yes, sir!"
 msgstr "Jawohl, mein Herr."
 
-#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:227
+#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:239
 msgid ""
 "A thousand curses on you, elfling! You will suffer... My master, Rualsha, "
 "approaches. He will wipe your people from the face of this earth!"
@@ -172,7 +110,7 @@ msgstr ""
 "Tausend Flüche auf dich, Elfling! Ihr werdet leiden... Mein Meister Rualsha "
 "nähert sich. Wir werden euch vom Angesicht dieser Erde tilgen!"
 
-#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:232
+#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:244
 msgid ""
 "Hmmm... Who is this Rualsha, I wonder? I will have to take a small "
 "exploration party north to see what is afoot there..."
@@ -181,19 +119,19 @@ msgstr ""
 "Erkundungstruppe nach Norden führen müssen, um herauszufinden was dort "
 "vorgeht..."
 
-#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:241
-msgid "Far in the north of Wesnoth was an Elven forest."
-msgstr ""
-
 #: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:253
+msgid "Far in the north of Wesnoth was an Elven forest."
+msgstr "Weit im Norden von Wesnoth gab es einen Elfenwald."
+
+#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:265
 msgid "One sunny day, orcs were sighted in the Elven forest."
-msgstr ""
+msgstr "Eines sonnigen Tages wurden Orks im Elfenwald gesichtet."
 
 #: An_Orcish_Incursion/scenarios/2_Assassins.cfg:3
 msgid "Assassins"
 msgstr "Meuchelmörder"
 
-#: An_Orcish_Incursion/scenarios/2_Assassins.cfg:158
+#: An_Orcish_Incursion/scenarios/2_Assassins.cfg:170
 msgid ""
 "Hint:\n"
 "Assassins are hard to hit, and their poison is insidious. Stay close to the "
@@ -205,15 +143,15 @@ msgstr ""
 "nahe der Dörfer, wo eine Vergiftung geheilt werden kann und zwingt Eure "
 "Feinde, Euch vom Fluss aus anzugreifen."
 
-#: An_Orcish_Incursion/scenarios/2_Assassins.cfg:161
+#: An_Orcish_Incursion/scenarios/2_Assassins.cfg:173
 msgid "Defeat Gharlsa"
 msgstr "Besiegt Gharlsa"
 
-#: An_Orcish_Incursion/scenarios/2_Assassins.cfg:187
+#: An_Orcish_Incursion/scenarios/2_Assassins.cfg:199
 msgid "Gharlsa sees elves... yes... fresh meat, yes, yes..."
 msgstr "Gharlsa sieht Elfen... ja... frisches Fleisch, ja, ja..."
 
-#: An_Orcish_Incursion/scenarios/2_Assassins.cfg:192
+#: An_Orcish_Incursion/scenarios/2_Assassins.cfg:204
 msgid ""
 "Does that demented creature really think he can kill us... let us teach him "
 "a lesson!"
@@ -221,12 +159,12 @@ msgstr ""
 "Glaubt diese wahnsinnige Kreatur wirklich, uns besiegen zu können. Lasst uns "
 "ihm eine Lektion erteilen!"
 
-#: An_Orcish_Incursion/scenarios/2_Assassins.cfg:197
+#: An_Orcish_Incursion/scenarios/2_Assassins.cfg:209
 msgid "Be careful... he may be more dangerous than he appears."
 msgstr ""
 "Seid vorsichtig. Er könnte gefährlicher sein, als es den Anschein macht."
 
-#: An_Orcish_Incursion/scenarios/2_Assassins.cfg:211
+#: An_Orcish_Incursion/scenarios/2_Assassins.cfg:223
 msgid "Yes... yes... slay them, my assassins!"
 msgstr "Ja... ja... Erschlagt sie, meine Meuchelmörder!"
 
@@ -234,7 +172,7 @@ msgstr "Ja... ja... Erschlagt sie, meine Meuchelmörder!"
 msgid "Wasteland"
 msgstr "Verdorrtes Land"
 
-#: An_Orcish_Incursion/scenarios/3_Wasteland.cfg:156
+#: An_Orcish_Incursion/scenarios/3_Wasteland.cfg:168
 msgid ""
 "Hint:\n"
 "There are no villages in this scenario - you must use healers instead. Use "
@@ -245,11 +183,11 @@ msgstr ""
 "benutzen. Benutzt Fluchttaktiken um Feinde zu schwächen, die sich nicht "
 "selbst heilen können."
 
-#: An_Orcish_Incursion/scenarios/3_Wasteland.cfg:159
+#: An_Orcish_Incursion/scenarios/3_Wasteland.cfg:171
 msgid "Defeat Gnargha"
 msgstr "Besiegt Gnargha"
 
-#: An_Orcish_Incursion/scenarios/3_Wasteland.cfg:183
+#: An_Orcish_Incursion/scenarios/3_Wasteland.cfg:195
 msgid ""
 "The foul orcs have devastated this area, destroying the trees and driving "
 "out the peaceful folk... it saddens me to see such waste."
@@ -258,7 +196,7 @@ msgstr ""
 "friedliche Bevölkerung vertrieben. Es schmerzt mich, eine solche Verwüstung "
 "zu sehen."
 
-#: An_Orcish_Incursion/scenarios/3_Wasteland.cfg:188
+#: An_Orcish_Incursion/scenarios/3_Wasteland.cfg:200
 msgid ""
 "Greetings, Erlornas! I am Gnargha, the brother of Urugha whom you slew but "
 "few nights ago. Know this: Lord Rualsha has permitted me to be the agent of "
@@ -268,7 +206,7 @@ msgstr ""
 "erst vor ein paar Nächten erschlagen hast. Wisse: Lord Rualsha hat mir "
 "erlaubt der Überbringer seiner Rache zu sein!"
 
-#: An_Orcish_Incursion/scenarios/3_Wasteland.cfg:193
+#: An_Orcish_Incursion/scenarios/3_Wasteland.cfg:205
 msgid ""
 "I have no quarrel with you, Gnargha, nor with your leader Rualsha - but I "
 "cannot permit you to invade our lands. Leave now, and we shall be at peace."
@@ -277,7 +215,7 @@ msgstr ""
 "Jedoch kann ich Euch nicht erlauben in unser Gebiet einzudringen. Geht jetzt "
 "und wir verbleiben in Frieden."
 
-#: An_Orcish_Incursion/scenarios/3_Wasteland.cfg:198
+#: An_Orcish_Incursion/scenarios/3_Wasteland.cfg:210
 msgid ""
 "Peace?! Bah! You are weaker than I thought. Now prepare yourself for a slow "
 "and painful death!"
@@ -285,7 +223,7 @@ msgstr ""
 "Frieden?! Pah! Du bist schwächer als ich dachte. Bereite dich auf einen "
 "langsamen und qualvollen Tod vor!"
 
-#: An_Orcish_Incursion/scenarios/3_Wasteland.cfg:206
+#: An_Orcish_Incursion/scenarios/3_Wasteland.cfg:218
 msgid ""
 "Gnargha and his troops must have come down out of that valley to the "
 "north... that is where we will go next!"
@@ -297,7 +235,7 @@ msgstr ""
 msgid "Valley of Trolls"
 msgstr "Tal der Trolle"
 
-#: An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:214
+#: An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:226
 msgid ""
 "Hint:\n"
 "Trolls are very dangerous if they can attack as a group. Use the cave-mouths "
@@ -307,11 +245,11 @@ msgstr ""
 "Trolle sind sehr gefährlich, wenn sie als Gruppe angreifen. Benutzt die "
 "Eingänge der Höhlen als Flaschenhals, um sie einzeln zu bekämpfen."
 
-#: An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:217
+#: An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:229
 msgid "Defeat all enemy leaders"
 msgstr "Besiegt alle feindlichen Anführer"
 
-#: An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:241
+#: An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:253
 msgid ""
 "We are far from our lands, now, Erlornas, and we have driven the orcs from "
 "the forest. Why do we not return to our post?"
@@ -319,7 +257,7 @@ msgstr ""
 "Wir sind nun fern unserer Heimat, Erlornas und wir haben die Orks aus dem "
 "Wald vertrieben. Warum kehren wir nicht auf unseren Posten zurück?"
 
-#: An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:246
+#: An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:258
 msgid ""
 "You heard what the orcs said - this Rualsha is more than a mere marauding "
 "warlord in search of pillage.  He is planning an invasion, I'm sure of it. "
@@ -330,7 +268,7 @@ msgstr ""
 "eine Invasion plant. Wir müssen mehr Informationen über seine Pläne "
 "erlangen, bevor wir zurückkehren können."
 
-#: An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:251
+#: An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:263
 msgid ""
 "Information will do us no good if we are killed before we return with it! "
 "These mountains look like troll territory."
@@ -342,7 +280,7 @@ msgstr ""
 msgid "Linaera the Quick"
 msgstr "Linaera die Schnelle"
 
-#: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:162
+#: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:174
 msgid ""
 "Hint:\n"
 "This enemy is too strong for you to defeat alone. Use mounted units, and "
@@ -353,16 +291,16 @@ msgstr ""
 "berittene Einheiten und Linaeras Fähigkeit der Teleportation um anzugreifen "
 "und sofort wieder zu flüchten."
 
-#: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:165
+#: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:177
 msgid "Defeat Krughnar"
 msgstr "Besiegt Krughnar"
 
-#: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:147
-#: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:173
+#: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:185
+#: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:159
 msgid "Death of Linaera"
 msgstr "Linaera fällt in der Schlacht"
 
-#: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:243
+#: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:255
 msgid ""
 "We have come into the lands of the humans, Erlornas! See, there is one "
 "living in that tower to the west."
@@ -370,7 +308,7 @@ msgstr ""
 "Wir haben das Gebiet der Menschen erreicht, Erlornas! Seht, da ist jemand "
 "lebendiges in diesem Turm im Westen."
 
-#: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:248
+#: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:260
 msgid ""
 "Help! A great army of orcs has come down from the north, and has been laying "
 "seige to my tower for weeks... we are nearly out of supplies. Our people "
@@ -380,7 +318,7 @@ msgstr ""
 "Turm über Wochen hinweg belagert. Wir haben fast keine Vorräte mehr. Unser "
 "Volk hat die Elfen immer gut behandelt - ihr werdet uns doch  helfen?"
 
-#: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:253
+#: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:265
 msgid ""
 "Yes, of course! But... I wish to defeat the vile orcs and drive them away "
 "from our borders. Will you join us in attacking them?"
@@ -388,14 +326,14 @@ msgstr ""
 "Ja, sicherlich! Jedoch muss ich diese wertlosen Orks  besiegen und von "
 "unseren Grenzen vertreiben. Werdet ihr uns beim Angriff unterstützen?"
 
-#: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:258
+#: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:270
 msgid ""
 "Nothing would please me better! I will place all my powers at your command."
 msgstr ""
 "Nichts würde ich lieber tun! Ich werde alle meine Truppen unter euer "
 "Kommando stellen."
 
-#: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:336
+#: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:348
 msgid ""
 "My lord... humans cannot be trusted! They shift their allegiances with the "
 "changing of the wind!"
@@ -403,7 +341,7 @@ msgstr ""
 "Menschen kann man nicht trauen, mein Fürst. Sie wechseln ihre Allianzen mit "
 "der Windrichtung."
 
-#: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:341
+#: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:353
 msgid ""
 "That may be, but I do not think this one will betray us to the orcs. And we "
 "may need her assistance, too: that is a powerful force of orcs ahead."
@@ -412,7 +350,7 @@ msgstr ""
 "würden. Zudem könnten wir ihre Unterstützung benötigen: Da ist eine mächtige "
 "Truppe Orks vor uns."
 
-#: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:353
+#: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:365
 msgid ""
 "Oh no! Without Linaera's help, I cannot hope to defeat such a great force of "
 "orcs. I must return to my post and await reinforcements."
@@ -421,7 +359,7 @@ msgstr ""
 "Streitmacht der Orks zu bezwingen. Ich muss auf meinen Posten zurückkehren "
 "und Verstärkung abwarten."
 
-#: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:364
+#: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:376
 msgid ""
 "Thank you, Linaera. I couldn't have defeated the orcs without your help... "
 "How can I repay you?"
@@ -429,7 +367,7 @@ msgstr ""
 "Habt Dank, Linaera. Ich hätte diese Orks ohne Eure Hilfe nicht besiegen "
 "können.... Wie kann ich Euch dies vergelten?"
 
-#: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:369
+#: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:381
 msgid ""
 "There is one other thing... an evil power infests the swamps to the east of "
 "here. I had meant to deal with it myself, but perhaps you would like to help "
@@ -439,7 +377,7 @@ msgstr ""
 "heim. Ich hatte geplant mich selbst darum zu kümmern, jedoch möchtet ihr uns "
 "vielleicht noch einmal helfen?"
 
-#: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:374
+#: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:386
 msgid "Very well... to the east!"
 msgstr "Also gut. Nach Osten!"
 
@@ -447,7 +385,7 @@ msgstr "Also gut. Nach Osten!"
 msgid "A Detour through the Swamp"
 msgstr "Ein Umweg durch die Sümpfe"
 
-#: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:136
+#: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:148
 msgid ""
 "Hint:\n"
 "Undead are resistant to physical attack. Use mages to attack the undead, and "
@@ -458,11 +396,11 @@ msgstr ""
 "um die Untoten anzugreifen und Elfen um die Magier zu beschützen und ihnen "
 "zu helfen."
 
-#: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:139
+#: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:151
 msgid "Defeat Keremal"
 msgstr "Besiegt Keremal"
 
-#: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:170
+#: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:182
 msgid ""
 "The evil spirits who have settled in this wetland have turned it into a vile "
 "bog. My apprentices and I have the power to dispell them, but you must "
@@ -472,7 +410,7 @@ msgstr ""
 "wertloses Moor daraus gemacht. Meine Schüler und ich haben die Macht sie zu "
 "verbannen, aber ihr müsst uns vor ihren Waffen beschützen."
 
-#: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:182
+#: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:194
 msgid ""
 "All is lost! Without Linaera's help, I cannot hope to defeat these "
 "horrifying appraritions!"
@@ -480,7 +418,7 @@ msgstr ""
 "Es ist alles verloren. Ohne Linaeras Hilfe kann ich nicht hoffen, diese "
 "furchterregenden Erscheinungen zu besiegen."
 
-#: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:197
+#: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:209
 msgid ""
 "Thank you, Erlornas... now I can return to my tower in peace. But I think "
 "some of my apprentices wish to follow you north in persuit of the orcs."
@@ -489,7 +427,7 @@ msgstr ""
 "Aber ich denke einige meiner Schüler wollen Euch bei Eurer Verfolgung der "
 "Orks nach Norden begleiten."
 
-#: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:202
+#: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:214
 msgid ""
 "I have always wished to see elves, and now I have fought alongside them! May "
 "I please come with you?"
@@ -497,7 +435,7 @@ msgstr ""
 "Ich wollte immer Elfen sehen und nun habe ich an ihrer Seite gekämpft! Darf "
 "ich bitte mit Euch kommen?"
 
-#: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:207
+#: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:219
 msgid "Certainly... I shall be glad of your help."
 msgstr "Sicherlich. Ich bin für Eure Hilfe dankbar."
 
@@ -505,7 +443,7 @@ msgstr "Sicherlich. Ich bin für Eure Hilfe dankbar."
 msgid "Showdown"
 msgstr "Showdown"
 
-#: An_Orcish_Incursion/scenarios/7_Showdown.cfg:175
+#: An_Orcish_Incursion/scenarios/7_Showdown.cfg:187
 msgid ""
 "Hint:\n"
 "Your enemy is well defended against attacks from the south. Use rangers to "
@@ -516,11 +454,11 @@ msgstr ""
 "um durch den Wald zu schleichen und einen Überraschungsangriff aus dem "
 "Norden zu starten."
 
-#: An_Orcish_Incursion/scenarios/7_Showdown.cfg:178
+#: An_Orcish_Incursion/scenarios/7_Showdown.cfg:190
 msgid "Defeat Rualsha-Tan"
 msgstr "Besiegt Rualsha-Tan"
 
-#: An_Orcish_Incursion/scenarios/7_Showdown.cfg:259
+#: An_Orcish_Incursion/scenarios/7_Showdown.cfg:271
 msgid ""
 "My lord! We have ridden hard for five days to catch up with you! The council "
 "has deliberated, and asks you to defeat Rualsha quickly before he can muster "
@@ -530,7 +468,7 @@ msgstr ""
 "sich getroffen und bittet Euch, Rualsha schnell zu besiegen bevor er eine "
 "ausreichende Truppe für eine Invasion versammeln kann."
 
-#: An_Orcish_Incursion/scenarios/7_Showdown.cfg:264
+#: An_Orcish_Incursion/scenarios/7_Showdown.cfg:276
 msgid ""
 "Puny elves! My full army will be here soon, and then we will crush you. You "
 "will beg for a quick death!"
@@ -538,7 +476,7 @@ msgstr ""
 "Mickrige Elfen! Bald werden all meine Streitkräfte hier sein und euch "
 "zermalmen. Ihr werdet für einen schnellen Tod beten!"
 
-#: An_Orcish_Incursion/scenarios/7_Showdown.cfg:275
+#: An_Orcish_Incursion/scenarios/7_Showdown.cfg:287
 msgid ""
 "You may slay me, Erlornas, but my people live on. They will not forget! They "
 "will persue you, and destroy you utterly... we will... we... arrgh..."
@@ -547,7 +485,7 @@ msgstr ""
 "werden nicht vergessen! Sie werden euch verfolgen und vollständig "
 "vernichten... wir werden... wir... arrgh..."
 
-#: An_Orcish_Incursion/scenarios/7_Showdown.cfg:280
+#: An_Orcish_Incursion/scenarios/7_Showdown.cfg:292
 msgid ""
 "But Rualsha overestimated the will of his troops. With their leader dead, "
 "they scattered, and fled from the elves back to their homes in the far north."
@@ -556,7 +494,7 @@ msgstr ""
 "Anführers zerstreuten sie sich und flohen vor den Elfen zurück in ihre "
 "Heimat im fernen Norden."
 
-#: An_Orcish_Incursion/scenarios/7_Showdown.cfg:292
+#: An_Orcish_Incursion/scenarios/7_Showdown.cfg:304
 msgid ""
 "It grieves me to take life, even of a barbarian such as Rualsha. He led the "
 "orcs in a more organised way than I have ever known of before."
@@ -564,7 +502,7 @@ msgstr ""
 "Es schmerzt mich Leben zu nehmen, selbst von einem Barbaren wie Rualsha. Er "
 "führte die Orks besser organisiert als ich es je zuvor sah."
 
-#: An_Orcish_Incursion/scenarios/7_Showdown.cfg:297
+#: An_Orcish_Incursion/scenarios/7_Showdown.cfg:309
 msgid ""
 "Let us hope the orcs never again produce such a leader! Now, Erlornas, we "
 "must return home - the council will well reward you!"
