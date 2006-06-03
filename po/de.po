@@ -4,12 +4,12 @@ msgstr ""
 "Project-Id-Version: Orcish_Incursion 0.1\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-04-24 20:28+0200\n"
-"PO-Revision-Date: 2006-04-24 20:30+0200\n"
+"PO-Revision-Date: 2006-06-03 18:23+0200\n"
 "Last-Translator: David Philippi <david@torangan.de>\n"
 "Language-Team: de <david@torangan.de>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
 
 #: An_Orcish_Incursion.cfg:10
 msgid "An Orcish Incursion"
@@ -55,7 +55,7 @@ msgid ""
 msgstr ""
 "Hinweis:\n"
 "Elfen können sich schnell und sicher durch den Wald bewegen. Erledigt die "
-"feindlichen Grunzer aus der Sichheit des Waldes heraus mit Euren "
+"feindlichen Grunzer aus der Sicherheit des Waldes heraus mit Euren "
 "Bogenschützen."
 
 #: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:186
@@ -510,3 +510,4 @@ msgstr ""
 "Lasst uns hoffen, dass die Orks nie wieder einen solchen Anführer "
 "hervorbringen. Nun ist es für uns an der Zeit nach Hause zu gehen, Erlornas. "
 "Der Rat wird euch belohnen."
+
