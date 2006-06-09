@@ -24,7 +24,7 @@ msgstr ""
 
 #: An_Orcish_Incursion.cfg:10
 msgid "An Orcish Incursion"
-msgstr "Skřetí·invaze"
+msgstr "Skřetí invaze"
 
 #: An_Orcish_Incursion.cfg:13
 msgid "(hardest)"
@@ -32,7 +32,7 @@ msgstr "(nejtěžší)"
 
 #: An_Orcish_Incursion.cfg:13
 msgid "High Lord"
-msgstr "Velký·lord"
+msgstr "Velký lord"
 
 #: An_Orcish_Incursion.cfg:13
 msgid "Fighter"
@@ -50,11 +50,11 @@ msgstr "Lord"
 msgid ""
 "Defend the forests of the elves against marauding orcs, learning valuable "
 "tactics as you do so."
-msgstr "Braň·elfí·lesy·před·nájezdy·skřetů.·Naučíš·se·přitom·užitečné·taktiky."
+msgstr "Braň elfí lesy před nájezdy skřetů. Naučíš se přitom užitečné taktiky."
 
 #: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:3
 msgid "Defend the Forest"
-msgstr "Braň·les"
+msgstr "Braň les"
 
 #: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:183
 msgid ""
@@ -63,12 +63,12 @@ msgid ""
 "with your archers from the safety of the forest."
 msgstr ""
 "Tip:\n"
-"Elfové·se·dokáží·pohybovat·mezi·stromy·rychle·a·bezpečně.·Ostřeluj·"
-"se·svými·lučištníky·nepřátelské·pěšáky·z·bezpečí·lesa."
+"Elfové se dokáží pohybovat mezi stromy rychle a bezpečně. Ostřeluj "
+"se svými lučištníky nepřátelské pěšáky z bezpečí lesa."
 
 #: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:186
 msgid "Defeat Urugha"
-msgstr "Poraz·Urughu"
+msgstr "Poraz Urughu"
 
 #: An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:233
 #: An_Orcish_Incursion/scenarios/3_Wasteland.cfg:175
@@ -78,7 +78,7 @@ msgstr "Poraz·Urughu"
 #: An_Orcish_Incursion/scenarios/7_Showdown.cfg:194
 #: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:155
 msgid "Death of Erlornas"
-msgstr "Erlonas·zemře"
+msgstr "Erlonas zemře"
 
 #: An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:237
 #: An_Orcish_Incursion/scenarios/3_Wasteland.cfg:179
@@ -88,43 +88,43 @@ msgstr "Erlonas·zemře"
 #: An_Orcish_Incursion/scenarios/7_Showdown.cfg:198
 #: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:163
 msgid "Time runs out"
-msgstr "Dojdou·tahy"
+msgstr "Dojdou tahy"
 
 #: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:210
 msgid ""
 "Look, Erlornas! A war party of orcs has encamped to the north. They are "
 "destroying the forest there!"
 msgstr ""
-"Podívej,·Erlornasi!·Na·severu·se·utábořila·válečná·skupina·skřetů.·"
-"Ničí·tam·les!"
+"Podívej, Erlornasi! Na severu se utábořila válečná skupina skřetů. "
+"Ničí tam les!"
 
 #: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:215
 msgid ""
 "I see them... we should be able to drive them off. All the same, you had "
 "best send for reinforcements, Lomarfel."
 msgstr ""
-"Vidím·je...·měli·bychom·být·schopni·je·zahnat.·Stejně·tě·pošlu·pro·"
-"posily,·Lomarfele."
+"Vidím je... měli bychom být schopni je zahnat. Stejně tě pošlu pro "
+"posily, Lomarfele."
 
 #: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:220
 msgid "Yes, sir!"
-msgstr "Ano,·pane!"
+msgstr "Ano, pane!"
 
 #: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:239
 msgid ""
 "A thousand curses on you, elfling! You will suffer... My master, Rualsha, "
 "approaches. He will wipe your people from the face of this earth!"
 msgstr ""
-"Buď·proklet·tisíckrát,·elfátko!·Budeš·trpět...·Můj·pán,·Rualsha,·se·blíží.·"
-"Smete·tvůj·lid·z·tváře·země!"
+"Buď proklet tisíckrát, elfátko! Budeš trpět... Můj pán, Rualsha, se blíží. "
+"Smete tvůj lid z tváře země!"
 
 #: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:244
 msgid ""
 "Hmmm... Who is this Rualsha, I wonder? I will have to take a small "
 "exploration party north to see what is afoot there..."
 msgstr ""
-"Hmmm...·Zajímalo·by·mě,·kdo·je·Rualsha?·Budu·muset·podniknout·"
-"malou·průzkumnou·výpravu·na·sever,·abych·zjistil,·co·se·tam·chystá..."
+"Hmmm... Zajímalo by mě, kdo je Rualsha? Budu muset podniknout "
+"malou průzkumnou výpravu na sever, abych zjistil, co se tam chystá..."
 
 #: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:253
 msgid "Far in the north of Wesnoth was an Elven forest."
@@ -146,30 +146,30 @@ msgid ""
 "from the river."
 msgstr ""
 "Tip:\n"
-"Vrazi·jsou·těžko·zasažitelní·a·jejich·jed·je·zrádný.·Zůstávej·poblíž·vesnic,·"
-"kde·můžeš·vyléčit·otravu,·a·přinuť·své·nepřátele,·aby·na·tebe·útočili·z·řeky."
+"Vrazi jsou těžko zasažitelní a jejich jed je zrádný. Zůstávej poblíž vesnic, "
+"kde můžeš vyléčit otravu, a přinuť své nepřátele, aby na tebe útočili z řeky."
 
 #: An_Orcish_Incursion/scenarios/2_Assassins.cfg:173
 msgid "Defeat Gharlsa"
-msgstr "Poraz·Gharlšu"
+msgstr "Poraz Gharlšu"
 
 #: An_Orcish_Incursion/scenarios/2_Assassins.cfg:199
 msgid "Gharlsa sees elves... yes... fresh meat, yes, yes..."
-msgstr "Gharlša·vidět·elfy...·jiště...·čerstvý·maso,·jiště,·jiště..."
+msgstr "Gharlša vidět elfy... jiště... čerstvý maso, jiště, jiště..."
 
 #: An_Orcish_Incursion/scenarios/2_Assassins.cfg:204
 msgid ""
 "Does that demented creature really think he can kill us... let us teach him "
 "a lesson!"
-msgstr "Opravdu·si·to·pitomé·stvoření·myslí,·že·nás·může·zabít...·dáme·mu·lekci!"
+msgstr "Opravdu si to pitomé stvoření myslí, že nás může zabít... dáme mu lekci!"
 
 #: An_Orcish_Incursion/scenarios/2_Assassins.cfg:209
 msgid "Be careful... he may be more dangerous than he appears."
-msgstr "Buď·opatrný...·může·být·nebezpečnější·než·vypadá."
+msgstr "Buď opatrný... může být nebezpečnější než vypadá."
 
 #: An_Orcish_Incursion/scenarios/2_Assassins.cfg:223
 msgid "Yes... yes... slay them, my assassins!"
-msgstr "Jiště...·jiště...·šražte·je,·moji·vražíčkové."
+msgstr "Jiště... jiště... šražte je, moji vražíčkové."
 
 #: An_Orcish_Incursion/scenarios/3_Wasteland.cfg:3
 msgid "Wasteland"
@@ -182,21 +182,21 @@ msgid ""
 "hit and run tactics to weaken enemy units who cannot heal themselves."
 msgstr ""
 "Tip:\n"
-"Na·této·mapě·nejsou·žádné·vesnice·-·musíš·místo·nich·použít·léčitele.·"
-"Použij·taktiku·\"udeř·a·uteč\"·k·oslabení·nepřátelských·jednotek,·které·"
-"se·nemohou·léčit."
+"Na této mapě nejsou žádné vesnice - musíš místo nich použít léčitele. "
+"Použij taktiku \"udeř a uteč\" k oslabení nepřátelských jednotek, které "
+"se nemohou léčit."
 
 #: An_Orcish_Incursion/scenarios/3_Wasteland.cfg:171
 msgid "Defeat Gnargha"
-msgstr "Poraz·Gnarghu"
+msgstr "Poraz Gnarghu"
 
 #: An_Orcish_Incursion/scenarios/3_Wasteland.cfg:195
 msgid ""
 "The foul orcs have devastated this area, destroying the trees and driving "
 "out the peaceful folk... it saddens me to see such waste."
 msgstr ""
-"Tuto·oblast·zpustošili·hnusní·skřeti,·zničili·stromy·a·vyhnali·mírumilovný·"
-"lid...·rmoutí·mě·pohled·na·takovou·zkázu."
+"Tuto oblast zpustošili hnusní skřeti, zničili stromy a vyhnali mírumilovný "
+"lid... rmoutí mě pohled na takovou zkázu."
 
 #: An_Orcish_Incursion/scenarios/3_Wasteland.cfg:200
 msgid ""
@@ -204,23 +204,23 @@ msgid ""
 "few nights ago. Know this: Lord Rualsha has permitted me to be the agent of "
 "his revenge!"
 msgstr ""
-"Zdravíčko,·Erlornasi!·Jsem·Gnargha,·bratr·Urughy,·kterého·jsi·zabil·před·"
-"několika·dny.·Poslouchej:·Lord·Rualsha·mi·povolil·být·poslem·jeho·pomsty!"
+"Zdravíčko, Erlornasi! Jsem Gnargha, bratr Urughy, kterého jsi zabil před "
+"několika dny. Poslouchej: Lord Rualsha mi povolil být poslem jeho pomsty!"
 
 #: An_Orcish_Incursion/scenarios/3_Wasteland.cfg:205
 msgid ""
 "I have no quarrel with you, Gnargha, nor with your leader Rualsha - but I "
 "cannot permit you to invade our lands. Leave now, and we shall be at peace."
 msgstr ""
-"Nemám·s·tebou·žádný·spor,·Gnargho,·ani·s·tvým·vůdcem·Rualshou·-·ale·nemohu·"
-"vám·dovolit·napadnout·naši·zemi.·Odejdi·a·bude·mezi·námi·mír."
+"Nemám s tebou žádný spor, Gnargho, ani s tvým vůdcem Rualshou - ale nemohu "
+"vám dovolit napadnout naši zemi. Odejdi a bude mezi námi mír."
 
 #: An_Orcish_Incursion/scenarios/3_Wasteland.cfg:210
 msgid ""
 "Peace?! Bah! You are weaker than I thought. Now prepare yourself for a slow "
 "and painful death!"
 msgstr ""
-"Mír?!·Pch!·Jsi·slabší·než·jsem·si·myslel.·Teď·se·připrav·na·pomalou·a·bolestivou·"
+"Mír?! Pch! Jsi slabší než jsem si myslel. Teď se připrav na pomalou a bolestivou "
 "smrt."
 
 #: An_Orcish_Incursion/scenarios/3_Wasteland.cfg:218
@@ -228,12 +228,12 @@ msgid ""
 "Gnargha and his troops must have come down out of that valley to the "
 "north... that is where we will go next!"
 msgstr ""
-"Gnargha·musel·se·svými·jednotkami·přijít·z·toho·údolí·na·severu...·"
-"tam·také·zamíříme!"
+"Gnargha musel se svými jednotkami přijít z toho údolí na severu... "
+"tam také zamíříme!"
 
 #: An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:3
 msgid "Valley of Trolls"
-msgstr "Trolí·údolí"
+msgstr "Trolí údolí"
 
 #: An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:226
 msgid ""
@@ -242,20 +242,20 @@ msgid ""
 "as bottlenecks to fight them one at a time."
 msgstr ""
 "Tip:\n"
-"Když·trolové·mohou·zaútočit·ve·skupině,·jsou·velmi·nebezpeční.·Použij·ústí·"
-"jeskyní,·abys·s·nimi·mohl·bojovat·jednotlivě."
+"Když trolové mohou zaútočit ve skupině, jsou velmi nebezpeční. Použij ústí "
+"jeskyní, abys s nimi mohl bojovat jednotlivě."
 
 #: An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:229
 msgid "Defeat all enemy leaders"
-msgstr "Poraz·všechny·nepřátelské·vůdce."
+msgstr "Poraz všechny nepřátelské vůdce."
 
 #: An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:253
 msgid ""
 "We are far from our lands, now, Erlornas, and we have driven the orcs from "
 "the forest. Why do we not return to our post?"
 msgstr ""
-"Erlornasi,·vzdálili·jsme·se·od·našich·zemí·a·zahnali·jsme·skřety·z·lesa.·"
-"Proč·se·nevracíme·na·naše·stanoviště?"
+"Erlornasi, vzdálili jsme se od našich zemí a zahnali jsme skřety z lesa. "
+"Proč se nevracíme na naše stanoviště?"
 
 #: An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:258
 msgid ""
@@ -263,21 +263,21 @@ msgid ""
 "warlord in search of pillage.  He is planning an invasion, I'm sure of it. "
 "We must gather more information about his plans before we go back."
 msgstr ""
-"Slyšel·jsi,·co·říkali·skřeti·-·tenhle·Rualsha·je·víc·než·nějaký·nájezdnický·"
-"pán·hledající·lup.··Plánuje·invazi,·tím·si·jsem·jistý.·Než·se·vrátíme·musíme·"
-"získat·více·informací·o·jeho·plánech."
+"Slyšel jsi, co říkali skřeti - tenhle Rualsha je víc než nějaký nájezdnický "
+"pán hledající lup.  Plánuje invazi, tím si jsem jistý. Než se vrátíme musíme "
+"získat více informací o jeho plánech."
 
 #: An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:263
 msgid ""
 "Information will do us no good if we are killed before we return with it! "
 "These mountains look like troll territory."
 msgstr ""
-"Informace·nám·moc·nepomůžou,·pokud·nás·než·se·s·nimi·vrátíme·zabijí!·"
-"Tyhle·hory·vypadají·jako·území·trolů."
+"Informace nám moc nepomůžou, pokud nás než se s nimi vrátíme zabijí! "
+"Tyhle hory vypadají jako území trolů."
 
 #: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:3
 msgid "Linaera the Quick"
-msgstr "Linaera·Rychlá"
+msgstr "Linaera Rychlá"
 
 #: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:174
 msgid ""
@@ -286,25 +286,25 @@ msgid ""
 "Linaera's power of teleportation to mount hit and run attacks."
 msgstr ""
 "Tip:\n"
-"Tento·nepřítel·je·příliš·silný,·abys·ho·porazil·sám.·Použij·jízdní·jednotky·"
-"a·Linaeřinu·schopnost·teleportace·k·útokům·\"udeř·a·uteč\""
+"Tento nepřítel je příliš silný, abys ho porazil sám. Použij jízdní jednotky "
+"a Linaeřinu schopnost teleportace k útokům \"udeř a uteč\""
 
 #: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:177
 msgid "Defeat Krughnar"
-msgstr "Poraz·Krughnara"
+msgstr "Poraz Krughnara"
 
 #: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:185
 #: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:159
 msgid "Death of Linaera"
-msgstr "Linaera·zemře"
+msgstr "Linaera zemře"
 
 #: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:255
 msgid ""
 "We have come into the lands of the humans, Erlornas! See, there is one "
 "living in that tower to the west."
 msgstr ""
-"Přišli·jsem·do·zemí·lidí,·Erlornasi!·Podívej,·támhle·na·západě·bydlí·"
-"jeden·ve·věži."
+"Přišli jsem do zemí lidí, Erlornasi! Podívej, támhle na západě bydlí "
+"jeden ve věži."
 
 #: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:260
 msgid ""
@@ -312,50 +312,50 @@ msgid ""
 "seige to my tower for weeks... we are nearly out of supplies. Our people "
 "have always been friendly to the elves - will you not assist us?"
 msgstr ""
-"Pomozte!·Ze·severu·přišla·ohromná·armáda·skřetů·a·obléhají·moji·věž·již·"
-"několik·týdnů...·docházejí·nám·zásoby.·Naši·lidé·se·vždy·přátelili·s·"
-"elfy·-·nepomůžete·nám?"
+"Pomozte! Ze severu přišla ohromná armáda skřetů a obléhají moji věž již "
+"několik týdnů... docházejí nám zásoby. Naši lidé se vždy přátelili s "
+"elfy - nepomůžete nám?"
 
 #: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:265
 msgid ""
 "Yes, of course! But... I wish to defeat the vile orcs and drive them away "
 "from our borders. Will you join us in attacking them?"
 msgstr ""
-"Samozřejmě,·že·vám·pomůžeme!·Ale...·Chtěl·bych·ty·mrzké·skřety·porazit·"
-"a·zahnat·od·našich·hranic.·Připojíte·se·k·našemu·útoku?"
+"Samozřejmě, že vám pomůžeme! Ale... Chtěl bych ty mrzké skřety porazit "
+"a zahnat od našich hranic. Připojíte se k našemu útoku?"
 
 #: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:270
 msgid "Nothing would please me better! I will place all my powers at your command."
-msgstr "Nic·by·mě·nepotěšilo·víc!·Rozmístím·všechny·své·síly·dle·tvého·rozkazu."
+msgstr "Nic by mě nepotěšilo víc! Rozmístím všechny své síly dle tvého rozkazu."
 
 #: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:348
 msgid ""
 "My lord... humans cannot be trusted! They shift their allegiances with the "
 "changing of the wind!"
-msgstr "Můj·pane...·lidé·jsou·nedůvěryhodní!·Mění·svá·spojenectví·jako·se·mění·vítr."
+msgstr "Můj pane... lidé jsou nedůvěryhodní! Mění svá spojenectví jako se mění vítr."
 
 #: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:353
 msgid ""
 "That may be, but I do not think this one will betray us to the orcs. And we "
 "may need her assistance, too: that is a powerful force of orcs ahead."
 msgstr ""
-"Může·být,·ale·nemyslím·si,·že·tahle·nás·zradí·skřetům.·Navíc·bychom·také·"
-"mohli·potřebovat·její·pomoc:·před·námi·čeká·velké·vojsko·skřetů."
+"Může být, ale nemyslím si, že tahle nás zradí skřetům. Navíc bychom také "
+"mohli potřebovat její pomoc: před námi čeká velké vojsko skřetů."
 
 #: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:365
 msgid ""
 "Oh no! Without Linaera's help, I cannot hope to defeat such a great force of "
 "orcs. I must return to my post and await reinforcements."
 msgstr ""
-"Ne!·Bez·Linaeřiny·pomoci·nemohu·doufat,·že·porazím·takovou·armádu·skřetů.·"
-"Musím·se·stáhnout·na·své·stanoviště·a·počkat·na·posily."
+"Ne! Bez Linaeřiny pomoci nemohu doufat, že porazím takovou armádu skřetů. "
+"Musím se stáhnout na své stanoviště a počkat na posily."
 
 #: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:376
 msgid ""
 "Thank you, Linaera. I couldn't have defeated the orcs without your help... "
 "How can I repay you?"
 msgstr ""
-"Díky,·Linaero.·Bez·tvé·pomoci·bych·nemohl·skřety·porazit...·Jak·se·ti·mohu·"
+"Díky, Linaero. Bez tvé pomoci bych nemohl skřety porazit... Jak se ti mohu "
 "odvděčit?"
 
 #: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:381
@@ -364,16 +364,16 @@ msgid ""
 "here. I had meant to deal with it myself, but perhaps you would like to help "
 "us once again?"
 msgstr ""
-"Něco·by·tu·bylo...·zlé·síly·zamořily·bažiny·na·východ·odsud.·Chtěla·jsem·se·"
-"s·tím·vypořádat·sama,·ale·možná·bys·nám·chtěl·znovu·pomoct?"
+"Něco by tu bylo... zlé síly zamořily bažiny na východ odsud. Chtěla jsem se "
+"s tím vypořádat sama, ale možná bys nám chtěl znovu pomoct?"
 
 #: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:386
 msgid "Very well... to the east!"
-msgstr "Dobře...·na·východ!"
+msgstr "Dobře... na východ!"
 
 #: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:3
 msgid "A Detour through the Swamp"
-msgstr "Oklika·přes·bažinu"
+msgstr "Oklika přes bažinu"
 
 #: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:148
 msgid ""
@@ -382,12 +382,12 @@ msgid ""
 "elves to protect and support the mages."
 msgstr ""
 "Tip:\n"
-"Nemrtví·jsou·odolní·vůči·fyzickým·útokům.·Použij·mágy·k·útokům·na·nemrtvé·"
-"a·elfy·k·ochraně·a·podpoře·mágů."
+"Nemrtví jsou odolní vůči fyzickým útokům. Použij mágy k útokům na nemrtvé "
+"a elfy k ochraně a podpoře mágů."
 
 #: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:151
 msgid "Defeat Keremal"
-msgstr "Poraz·Keremala"
+msgstr "Poraz Keremala"
 
 #: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:182
 msgid ""
@@ -395,41 +395,41 @@ msgid ""
 "bog. My apprentices and I have the power to dispell them, but you must "
 "protect us from their weapons."
 msgstr ""
-"Zlí·duchové,·kteří·se·usadili·v·této·mokřině,·ji·proměnili·v·hnusnou·bažinu.·"
-"Moji·učedníci·a·já·máme·moc·je·rozehnat,·ale·vy·nás·musíte·chránit·před·"
-"jejich·zbraněmi."
+"Zlí duchové, kteří se usadili v této mokřině, ji proměnili v hnusnou bažinu. "
+"Moji učedníci a já máme moc je rozehnat, ale vy nás musíte chránit před "
+"jejich zbraněmi."
 
 #: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:194
 msgid ""
 "All is lost! Without Linaera's help, I cannot hope to defeat these "
 "horrifying appraritions!"
 msgstr ""
-"Vše·je·ztraceno!·Bez·Linaeřiny·pomoci,·nemohu·doufat,·že·porazím·tyto·"
-"děsivé·zjevy!"
+"Vše je ztraceno! Bez Linaeřiny pomoci, nemohu doufat, že porazím tyto "
+"děsivé zjevy!"
 
 #: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:209
 msgid ""
 "Thank you, Erlornas... now I can return to my tower in peace. But I think "
 "some of my apprentices wish to follow you north in persuit of the orcs."
 msgstr ""
-"Děkuji,·Erlornasi...·nyní·se·mohu·vrátit·do·své·věže·v·pokoji.·Ale·myslím·"
-"si,·že·někteří·z·mých·učedníků·si·přejí·jít·s·tebou·na·sever·a·zahnat·skřety."
+"Děkuji, Erlornasi... nyní se mohu vrátit do své věže v pokoji. Ale myslím "
+"si, že někteří z mých učedníků si přejí jít s tebou na sever a zahnat skřety."
 
 #: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:214
 msgid ""
 "I have always wished to see elves, and now I have fought alongside them! May "
 "I please come with you?"
 msgstr ""
-"Vždycky·jsem·si·přál·vidět·elfy·a·teď·jsem·bojoval·po·jejich·boku!·Můžu,·"
-"prosím,·jít·s·vámi?"
+"Vždycky jsem si přál vidět elfy a teď jsem bojoval po jejich boku! Můžu, "
+"prosím, jít s vámi?"
 
 #: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:219
 msgid "Certainly... I shall be glad of your help."
-msgstr "Jistě...·Potěší·mě·tvá·pomoc."
+msgstr "Jistě... Potěší mě tvá pomoc."
 
 #: An_Orcish_Incursion/scenarios/7_Showdown.cfg:3
 msgid "Showdown"
-msgstr "Odhalení·plánů"
+msgstr "Odhalení plánů"
 
 #: An_Orcish_Incursion/scenarios/7_Showdown.cfg:187
 msgid ""
@@ -438,12 +438,12 @@ msgid ""
 "sneak through the forest and mount a surprise attack from the north."
 msgstr ""
 "Tip:\n"
-"Tvůj·nepřítel·je·dobře·chráněn·proti·útokům·z·jihu.·Použij·hraničáře,·aby·jsi·"
-"proklouzl·lesem,·a·podnikni·překvapivý·jízdní·útok·ze·severu."
+"Tvůj nepřítel je dobře chráněn proti útokům z jihu. Použij hraničáře, aby jsi "
+"proklouzl lesem, a podnikni překvapivý jízdní útok ze severu."
 
 #: An_Orcish_Incursion/scenarios/7_Showdown.cfg:190
 msgid "Defeat Rualsha-Tan"
-msgstr "Poraz·Rualshu-Tana"
+msgstr "Poraz Rualshu-Tana"
 
 #: An_Orcish_Incursion/scenarios/7_Showdown.cfg:271
 msgid ""
@@ -451,47 +451,47 @@ msgid ""
 "has deliberated, and asks you to defeat Rualsha quickly before he can muster "
 "a full invasion force."
 msgstr ""
-"Můj·pane!·Hnali·jsme·koně·jsme·pět·dní,·abychom·tě·dohnali!·Rada·se·usnesla·"
-"a·žádá·tě,·abys·rychle·porazil·Rualshu,·než·stihne·shromáždit·plnou·"
-"útočnou·sílu."
+"Můj pane! Hnali jsme koně jsme pět dní, abychom tě dohnali! Rada se usnesla "
+"a žádá tě, abys rychle porazil Rualshu, než stihne shromáždit plnou "
+"útočnou sílu."
 
 #: An_Orcish_Incursion/scenarios/7_Showdown.cfg:276
 msgid ""
 "Puny elves! My full army will be here soon, and then we will crush you. You "
 "will beg for a quick death!"
 msgstr ""
-"Hloupoučcí·elfové!·Zbytek·mé·armády·brzy·dorazí·a·potom·"
-"vás·rozdrtíme.·Budete·prosit·o·rychlou·smrt!"
+"Hloupoučcí elfové! Zbytek mé armády brzy dorazí a potom "
+"vás rozdrtíme. Budete prosit o rychlou smrt!"
 
 #: An_Orcish_Incursion/scenarios/7_Showdown.cfg:287
 msgid ""
 "You may slay me, Erlornas, but my people live on. They will not forget! They "
 "will persue you, and destroy you utterly... we will... we... arrgh..."
 msgstr ""
-"Můžeš·zabít·mě,·Erlornasi,·ale·moji·lidé·žijí·dál.·Nezapomenou!·Přinutí·"
-"tě·pykat,·úplně·tě·zničí...·budeme...·my...·arrgh..."
+"Můžeš zabít mě, Erlornasi, ale moji lidé žijí dál. Nezapomenou! Přinutí "
+"tě pykat, úplně tě zničí... budeme... my... arrgh..."
 
 #: An_Orcish_Incursion/scenarios/7_Showdown.cfg:292
 msgid ""
 "But Rualsha overestimated the will of his troops. With their leader dead, "
 "they scattered, and fled from the elves back to their homes in the far north."
 msgstr ""
-"Ale·Rualsha·přecenil·odhodlanost·svých·jednotek.·Když·jejich·vůdce·zemřel,·"
-"rozprchli·se·a·utekli·od·elfů·pryč·do·svých·domovů·daleko·na·severu."
+"Ale Rualsha přecenil odhodlanost svých jednotek. Když jejich vůdce zemřel, "
+"rozprchli se a utekli od elfů pryč do svých domovů daleko na severu."
 
 #: An_Orcish_Incursion/scenarios/7_Showdown.cfg:304
 msgid ""
 "It grieves me to take life, even of a barbarian such as Rualsha. He led the "
 "orcs in a more organised way than I have ever known of before."
 msgstr ""
-"Trápí·mě·zabíjet,·dokonce·i·takového·barbara·jako·Rualshu.·Vedl·skřety "
-"spořádaněji·než·kdokoli·před·ním."
+"Trápí mě zabíjet, dokonce i takového barbara jako Rualshu. Vedl skřety "
+"spořádaněji než kdokoli před ním."
 
 #: An_Orcish_Incursion/scenarios/7_Showdown.cfg:309
 msgid ""
 "Let us hope the orcs never again produce such a leader! Now, Erlornas, we "
 "must return home - the council will well reward you!"
 msgstr ""
-"Doufejme,·že·takový·vůdce·již·mezi·skřety·nepovstane!·Nyní·se,·Erlornasi,·"
-"musíme·vrátit·domů·-·Rada·tě·bohatě·odmění!"
+"Doufejme, že takový vůdce již mezi skřety nepovstane! Nyní se, Erlornasi, "
+"musíme vrátit domů - Rada tě bohatě odmění!"
 
