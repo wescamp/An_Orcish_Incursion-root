@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-04-24 20:28+0200\n"
+"POT-Creation-Date: 2006-05-16 19:30+0200\n"
 "PO-Revision-Date: 2005-07-11 14:01+0100\n"
 "Last-Translator: Széll Tamás <tomi@digiflex.hu>\n"
 "Language-Team: none\n"
@@ -62,22 +62,22 @@ msgid "Defeat Urugha"
 msgstr "Legyőzöd Urughát"
 
 #: An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:233
+#: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:155
+#: An_Orcish_Incursion/scenarios/2_Assassins.cfg:177
+#: An_Orcish_Incursion/scenarios/7_Showdown.cfg:194
+#: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:181
 #: An_Orcish_Incursion/scenarios/3_Wasteland.cfg:175
 #: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:190
-#: An_Orcish_Incursion/scenarios/2_Assassins.cfg:177
-#: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:181
-#: An_Orcish_Incursion/scenarios/7_Showdown.cfg:194
-#: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:155
 msgid "Death of Erlornas"
 msgstr "Erlornas elesik"
 
 #: An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:237
+#: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:163
+#: An_Orcish_Incursion/scenarios/2_Assassins.cfg:181
+#: An_Orcish_Incursion/scenarios/7_Showdown.cfg:198
+#: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:189
 #: An_Orcish_Incursion/scenarios/3_Wasteland.cfg:179
 #: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:194
-#: An_Orcish_Incursion/scenarios/2_Assassins.cfg:181
-#: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:189
-#: An_Orcish_Incursion/scenarios/7_Showdown.cfg:198
-#: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:163
 msgid "Time runs out"
 msgstr "Túlléped a körök számát"
 
@@ -291,8 +291,8 @@ msgstr ""
 msgid "Defeat Krughnar"
 msgstr "Legyőzöd Krughnart"
 
-#: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:185
 #: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:159
+#: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:185
 msgid "Death of Linaera"
 msgstr "Linaera elesik"
 
