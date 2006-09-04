@@ -4,12 +4,12 @@ msgstr ""
 "Project-Id-Version: Orcish_Incursion 0.1\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-09-04 20:16+0200\n"
-"PO-Revision-Date: 2006-06-03 23:17+0200\n"
+"PO-Revision-Date: 2006-09-04 21:40+0200\n"
 "Last-Translator: David Philippi <david@torangan.de>\n"
 "Language-Team: de <david@torangan.de>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
 
 #: An_Orcish_Incursion.cfg:10
 msgid "An Orcish Incursion"
@@ -49,14 +49,12 @@ msgstr "Verteidigt den Wald"
 
 #: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:113
 #: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:126
-#, fuzzy
 msgid "Erlornas"
-msgstr "Erlornas fällt in der Schlacht"
+msgstr "Erlornas"
 
 #: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:164
-#, fuzzy
 msgid "Urugha"
-msgstr "Besiegt Urugha"
+msgstr "Urugha"
 
 #: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:177
 msgid ""
@@ -143,9 +141,8 @@ msgid "Assassins"
 msgstr "Meuchelmörder"
 
 #: An_Orcish_Incursion/scenarios/2_Assassins.cfg:138
-#, fuzzy
 msgid "Gharlsa"
-msgstr "Besiegt Gharlsa"
+msgstr "Gharlsa"
 
 #: An_Orcish_Incursion/scenarios/2_Assassins.cfg:163
 msgid ""
@@ -189,9 +186,8 @@ msgid "Wasteland"
 msgstr "Verdorrtes Land"
 
 #: An_Orcish_Incursion/scenarios/3_Wasteland.cfg:150
-#, fuzzy
 msgid "Gnargha"
-msgstr "Besiegt Gnargha"
+msgstr "Gnargha"
 
 #: An_Orcish_Incursion/scenarios/3_Wasteland.cfg:162
 msgid ""
@@ -258,11 +254,11 @@ msgstr "Tal der Trolle"
 
 #: An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:141
 msgid "Gurk"
-msgstr ""
+msgstr "Gurk"
 
 #: An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:179
 msgid "Hrugu"
-msgstr ""
+msgstr "Hrugu"
 
 #: An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:203
 msgid ""
@@ -310,14 +306,12 @@ msgid "Linaera the Quick"
 msgstr "Linaera die Schnelle"
 
 #: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:147
-#, fuzzy
 msgid "Krughnar"
-msgstr "Besiegt Krughnar"
+msgstr "Krughnar"
 
 #: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:167
-#, fuzzy
 msgid "Linaera"
-msgstr "Linaera fällt in der Schlacht"
+msgstr "Linaera"
 
 #: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:180
 msgid ""
@@ -425,9 +419,8 @@ msgid "A Detour through the Swamp"
 msgstr "Ein Umweg durch die Sümpfe"
 
 #: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:138
-#, fuzzy
 msgid "Keremal"
-msgstr "Besiegt Keremal"
+msgstr "Keremal"
 
 #: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:151
 msgid ""
@@ -445,13 +438,11 @@ msgid "Defeat Keremal"
 msgstr "Besiegt Keremal"
 
 #: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:203
-#, fuzzy
 msgid ""
 "The evil spirits who have settled in this wetland have turned it into a vile "
 "bog. My apprentices and I have the power to dispel them, but you must "
 "protect us from their weapons."
-msgstr ""
-"Die bösen Geister, die sich in diesem Feuchtgebiet niederließen, haben ein "
+msgstr "Die bösen Geister, die sich in diesem Feuchtgebiet niederließen, haben ein "
 "wertloses Moor daraus gemacht. Meine Schüler und ich haben die Macht sie zu "
 "verbannen, aber ihr müsst uns vor ihren Waffen beschützen."
 
@@ -489,9 +480,8 @@ msgid "Showdown"
 msgstr "Showdown"
 
 #: An_Orcish_Incursion/scenarios/7_Showdown.cfg:169
-#, fuzzy
 msgid "Rualsha-Tan"
-msgstr "Besiegt Rualsha-Tan"
+msgstr "Rualsha-Tan"
 
 #: An_Orcish_Incursion/scenarios/7_Showdown.cfg:183
 msgid ""
@@ -527,12 +517,10 @@ msgstr ""
 "zermalmen. Ihr werdet für einen schnellen Tod beten!"
 
 #: An_Orcish_Incursion/scenarios/7_Showdown.cfg:305
-#, fuzzy
 msgid ""
 "You may slay me, Erlornas, but my people live on. They will not forget! They "
 "will pursue you, and destroy you utterly... we will... we... arrgh..."
-msgstr ""
-"Du magst mich besiegt haben, Erlornas, aber mein Volk lebt weiter. Sie "
+msgstr "Du magst mich besiegt haben, Erlornas, aber mein Volk lebt weiter. Sie "
 "werden nicht vergessen! Sie werden euch verfolgen und vollständig "
 "vernichten... wir werden... wir... arrgh..."
 
@@ -561,3 +549,4 @@ msgstr ""
 "Lasst uns hoffen, dass die Orks nie wieder einen solchen Anführer "
 "hervorbringen. Nun ist es für uns an der Zeit nach Hause zu gehen, Erlornas. "
 "Der Rat wird euch belohnen."
+
