@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-09-04 20:16+0200\n"
-"PO-Revision-Date: 2006-09-03 01:40+0900\n"
+"PO-Revision-Date: 2006-09-05 10:59+0900\n"
 "Last-Translator: Nobuhito Okada <okyada@gmail.com>\n"
 "Language-Team: Japanese Translation Team\n"
 "MIME-Version: 1.0\n"
@@ -55,14 +55,12 @@ msgstr "森の防衛"
 
 #: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:113
 #: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:126
-#, fuzzy
 msgid "Erlornas"
-msgstr "Erlornasの死"
+msgstr "Erlornas"
 
 #: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:164
-#, fuzzy
 msgid "Urugha"
-msgstr "Urughaを破る"
+msgstr "Urugha"
 
 #: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:177
 msgid ""
@@ -147,9 +145,8 @@ msgid "Assassins"
 msgstr "暗殺者"
 
 #: An_Orcish_Incursion/scenarios/2_Assassins.cfg:138
-#, fuzzy
 msgid "Gharlsa"
-msgstr "Gharlsaを破る"
+msgstr "Gharlsa"
 
 #: An_Orcish_Incursion/scenarios/2_Assassins.cfg:163
 msgid ""
@@ -192,9 +189,8 @@ msgid "Wasteland"
 msgstr "荒れ地"
 
 #: An_Orcish_Incursion/scenarios/3_Wasteland.cfg:150
-#, fuzzy
 msgid "Gnargha"
-msgstr "Gnarghaを破る"
+msgstr "Gnargha"
 
 #: An_Orcish_Incursion/scenarios/3_Wasteland.cfg:162
 msgid ""
@@ -258,11 +254,11 @@ msgstr "トロルの谷"
 
 #: An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:141
 msgid "Gurk"
-msgstr ""
+msgstr "Gurk"
 
 #: An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:179
 msgid "Hrugu"
-msgstr ""
+msgstr "Hrugu"
 
 #: An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:203
 msgid ""
@@ -309,14 +305,12 @@ msgid "Linaera the Quick"
 msgstr "すばやいLinaera"
 
 #: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:147
-#, fuzzy
 msgid "Krughnar"
-msgstr "Krughnarを破る"
+msgstr "Krughnar"
 
 #: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:167
-#, fuzzy
 msgid "Linaera"
-msgstr "Linaeraの死"
+msgstr "Linaera"
 
 #: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:180
 msgid ""
@@ -417,9 +411,8 @@ msgid "A Detour through the Swamp"
 msgstr "沼地を通って回り道"
 
 #: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:138
-#, fuzzy
 msgid "Keremal"
-msgstr "Keremalを破る"
+msgstr "Keremal"
 
 #: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:151
 msgid ""
@@ -436,7 +429,6 @@ msgid "Defeat Keremal"
 msgstr "Keremalを破る"
 
 #: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:203
-#, fuzzy
 msgid ""
 "The evil spirits who have settled in this wetland have turned it into a vile "
 "bog. My apprentices and I have the power to dispel them, but you must "
@@ -479,9 +471,8 @@ msgid "Showdown"
 msgstr "対決"
 
 #: An_Orcish_Incursion/scenarios/7_Showdown.cfg:169
-#, fuzzy
 msgid "Rualsha-Tan"
-msgstr "Rualsha-Tanを破る"
+msgstr "Rualsha-Tan"
 
 #: An_Orcish_Incursion/scenarios/7_Showdown.cfg:183
 msgid ""
@@ -517,7 +508,6 @@ msgstr ""
 "ちはお前らを滅ぼしてやる。お前らは瞬殺をせがむだろうな！"
 
 #: An_Orcish_Incursion/scenarios/7_Showdown.cfg:305
-#, fuzzy
 msgid ""
 "You may slay me, Erlornas, but my people live on. They will not forget! They "
 "will pursue you, and destroy you utterly... we will... we... arrgh..."
