@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-09-04 20:16+0200\n"
-"PO-Revision-Date: 2006-05-15 16:28+0200\n"
+"PO-Revision-Date: 2006-09-29 23:21+0200\n"
 "Last-Translator: Stefan Bergström (tephlon) <stefan DOT bergstrom AT gmail "
 "DOT com>\n"
 "Language-Team: Swedish\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms:  nplurals=2; plural=(n != 1);\n"
-"X-Generator: KBabel 1.11.2\n"
+"X-Generator: KBabel 1.11.4\n"
 
 #: An_Orcish_Incursion.cfg:10
 msgid "An Orcish Incursion"
@@ -51,14 +51,12 @@ msgstr "Försvara skogen"
 
 #: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:113
 #: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:126
-#, fuzzy
 msgid "Erlornas"
-msgstr "Erlornas dör"
+msgstr "Erlornas"
 
 #: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:164
-#, fuzzy
 msgid "Urugha"
-msgstr "Besegra Urugha"
+msgstr "Urugha"
 
 #: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:177
 msgid ""
@@ -143,9 +141,8 @@ msgid "Assassins"
 msgstr "Lönnmördare"
 
 #: An_Orcish_Incursion/scenarios/2_Assassins.cfg:138
-#, fuzzy
 msgid "Gharlsa"
-msgstr "Besegra Gharlsa"
+msgstr "Gharlsa"
 
 #: An_Orcish_Incursion/scenarios/2_Assassins.cfg:163
 msgid ""
@@ -188,9 +185,8 @@ msgid "Wasteland"
 msgstr "Ödemark"
 
 #: An_Orcish_Incursion/scenarios/3_Wasteland.cfg:150
-#, fuzzy
 msgid "Gnargha"
-msgstr "Besegra Gnargha"
+msgstr "Gnargha"
 
 #: An_Orcish_Incursion/scenarios/3_Wasteland.cfg:162
 msgid ""
@@ -255,11 +251,11 @@ msgstr "Trollens dal"
 
 #: An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:141
 msgid "Gurk"
-msgstr ""
+msgstr "Gurk"
 
 #: An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:179
 msgid "Hrugu"
-msgstr ""
+msgstr "Hrugu"
 
 #: An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:203
 msgid ""
@@ -306,14 +302,12 @@ msgid "Linaera the Quick"
 msgstr "Linaera den Snabba"
 
 #: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:147
-#, fuzzy
 msgid "Krughnar"
-msgstr "Besegra Krughnar"
+msgstr "Krughnar"
 
 #: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:167
-#, fuzzy
 msgid "Linaera"
-msgstr "Linaera dör"
+msgstr "Linaera"
 
 #: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:180
 msgid ""
@@ -417,9 +411,8 @@ msgid "A Detour through the Swamp"
 msgstr "En avstickare genom träsket"
 
 #: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:138
-#, fuzzy
 msgid "Keremal"
-msgstr "Besegra Keremal"
+msgstr "Keremal"
 
 #: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:151
 msgid ""
@@ -436,7 +429,6 @@ msgid "Defeat Keremal"
 msgstr "Besegra Keremal"
 
 #: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:203
-#, fuzzy
 msgid ""
 "The evil spirits who have settled in this wetland have turned it into a vile "
 "bog. My apprentices and I have the power to dispel them, but you must "
@@ -480,9 +472,8 @@ msgid "Showdown"
 msgstr "Slutstrid"
 
 #: An_Orcish_Incursion/scenarios/7_Showdown.cfg:169
-#, fuzzy
 msgid "Rualsha-Tan"
-msgstr "Besegra Rualsha-Tan"
+msgstr "Rualsha-Tan"
 
 #: An_Orcish_Incursion/scenarios/7_Showdown.cfg:183
 msgid ""
@@ -517,14 +508,13 @@ msgstr ""
 "er! Ni kommer att be om en snabb död!"
 
 #: An_Orcish_Incursion/scenarios/7_Showdown.cfg:305
-#, fuzzy
 msgid ""
 "You may slay me, Erlornas, but my people live on. They will not forget! They "
 "will pursue you, and destroy you utterly... we will... we... arrgh..."
 msgstr ""
-"Du kan mördar mig, Erlornas, men mitt folk kommer att leva kvar. De kommer "
-"inte att glömma! De kommer att förfölja dig och förgöra dig fullständigt... "
-"Vi kommer.... Vi... Arrgh..."
+"Du kan dräpa mig, Erlornas, men mitt folk lever vidare. De kommer inte att "
+"glömma! De kommer att förfölja dig och förgöra dig fullständigt... Vi "
+"skall.... Vi... Arrgh..."
 
 #: An_Orcish_Incursion/scenarios/7_Showdown.cfg:311
 msgid ""
