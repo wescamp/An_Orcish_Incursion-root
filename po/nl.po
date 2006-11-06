@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2006-09-04 20:16+0200\n"
-"PO-Revision-Date: 2006-08-01 10:55+0100\n"
+"PO-Revision-Date: 2006-11-04 20:32+0100\n"
 "Last-Translator: Foppe Benedictus <foppe.benedictus@gmail.com>\n"
 "Language-Team: none\n"
 "MIME-Version: 1.0\n"
@@ -49,14 +49,12 @@ msgstr "Verdedig het woud"
 
 #: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:113
 #: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:126
-#, fuzzy
 msgid "Erlornas"
-msgstr "Dood van Erlornas"
+msgstr "Erlornas"
 
 #: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:164
-#, fuzzy
 msgid "Urugha"
-msgstr "Versla Urugha"
+msgstr "Urugha"
 
 #: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:177
 msgid ""
@@ -141,9 +139,8 @@ msgid "Assassins"
 msgstr "Sluipmoordenaars"
 
 #: An_Orcish_Incursion/scenarios/2_Assassins.cfg:138
-#, fuzzy
 msgid "Gharlsa"
-msgstr "Versla Gharlsa"
+msgstr "Gharlsa"
 
 #: An_Orcish_Incursion/scenarios/2_Assassins.cfg:163
 msgid ""
@@ -187,9 +184,8 @@ msgid "Wasteland"
 msgstr "Woesternij"
 
 #: An_Orcish_Incursion/scenarios/3_Wasteland.cfg:150
-#, fuzzy
 msgid "Gnargha"
-msgstr "Versla Gnargha"
+msgstr "Gnargha"
 
 #: An_Orcish_Incursion/scenarios/3_Wasteland.cfg:162
 msgid ""
@@ -254,11 +250,11 @@ msgstr "Vallei van de trollen"
 
 #: An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:141
 msgid "Gurk"
-msgstr ""
+msgstr "Gurk"
 
 #: An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:179
 msgid "Hrugu"
-msgstr ""
+msgstr "Hrugu"
 
 #: An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:203
 msgid ""
@@ -306,14 +302,12 @@ msgid "Linaera the Quick"
 msgstr "Linaera de vlugge"
 
 #: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:147
-#, fuzzy
 msgid "Krughnar"
-msgstr "Versla Krughnar"
+msgstr "Krughnar"
 
 #: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:167
-#, fuzzy
 msgid "Linaera"
-msgstr "Dood van Linaera"
+msgstr "Linaera"
 
 #: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:180
 msgid ""
@@ -419,9 +413,8 @@ msgid "A Detour through the Swamp"
 msgstr "Een omweg door het moeras"
 
 #: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:138
-#, fuzzy
 msgid "Keremal"
-msgstr "Verla Keremal"
+msgstr "Keremal"
 
 #: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:151
 msgid ""
@@ -439,7 +432,6 @@ msgid "Defeat Keremal"
 msgstr "Verla Keremal"
 
 #: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:203
-#, fuzzy
 msgid ""
 "The evil spirits who have settled in this wetland have turned it into a vile "
 "bog. My apprentices and I have the power to dispel them, but you must "
@@ -482,9 +474,8 @@ msgid "Showdown"
 msgstr "De Krachtmeting"
 
 #: An_Orcish_Incursion/scenarios/7_Showdown.cfg:169
-#, fuzzy
 msgid "Rualsha-Tan"
-msgstr "Versla Rualsha-Tan"
+msgstr "Rualsha-Tan"
 
 #: An_Orcish_Incursion/scenarios/7_Showdown.cfg:183
 msgid ""
@@ -519,12 +510,11 @@ msgstr ""
 "vernietigen. Je zult om een spoedige dood smeken!"
 
 #: An_Orcish_Incursion/scenarios/7_Showdown.cfg:305
-#, fuzzy
 msgid ""
 "You may slay me, Erlornas, but my people live on. They will not forget! They "
 "will pursue you, and destroy you utterly... we will... we... arrgh..."
 msgstr ""
-"Misschien versla je mij, Erlornas, maar mijn onderdanen leven verder. Zij "
+"Misschien versla je mij Erlornas, maar mijn onderdanen leven verder. Zij "
 "zullen het niet vergeten. Zij zullen je opjagen en je uiteindelijk "
 "vernietigen... we zullen... we... aargh..."
 
