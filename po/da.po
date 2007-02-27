@@ -54,14 +54,12 @@ msgstr "Forsvar skoven"
 
 #: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:113
 #: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:126
-#, fuzzy
 msgid "Erlornas"
-msgstr "Erlornas' død"
+msgstr "Erlornas"
 
 #: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:164
-#, fuzzy
 msgid "Urugha"
-msgstr "Besejr Urugha"
+msgstr "Urugha"
 
 #: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:177
 msgid ""
@@ -135,20 +133,19 @@ msgstr ""
 
 #: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:279
 msgid "Far in the north of Wesnoth was an Elven forest."
-msgstr ""
+msgstr "Langt væk mod nord i Wesnoth var der en elverskov."
 
 #: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:291
 msgid "One sunny day, orcs were sighted in the Elven forest."
-msgstr ""
+msgstr "En solskinsdag blev der set orker i elverskoven."
 
 #: An_Orcish_Incursion/scenarios/2_Assassins.cfg:3
 msgid "Assassins"
 msgstr "Snigmordere"
 
 #: An_Orcish_Incursion/scenarios/2_Assassins.cfg:138
-#, fuzzy
 msgid "Gharlsa"
-msgstr "Besejr Gharlsa"
+msgstr "Gharlsa"
 
 #: An_Orcish_Incursion/scenarios/2_Assassins.cfg:163
 msgid ""
@@ -192,9 +189,8 @@ msgid "Wasteland"
 msgstr "Ødeland"
 
 #: An_Orcish_Incursion/scenarios/3_Wasteland.cfg:150
-#, fuzzy
 msgid "Gnargha"
-msgstr "Besejr Gnargha"
+msgstr "Gnargha"
 
 #: An_Orcish_Incursion/scenarios/3_Wasteland.cfg:162
 msgid ""
@@ -260,11 +256,11 @@ msgstr "Troldedalen"
 
 #: An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:141
 msgid "Gurk"
-msgstr ""
+msgstr "Gurk"
 
 #: An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:179
 msgid "Hrugu"
-msgstr ""
+msgstr "Hrugu"
 
 #: An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:203
 msgid ""
@@ -312,14 +308,12 @@ msgid "Linaera the Quick"
 msgstr "Linaera den Hurtige"
 
 #: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:147
-#, fuzzy
 msgid "Krughnar"
-msgstr "Besejr Krughnar"
+msgstr "Krughnar"
 
 #: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:167
-#, fuzzy
 msgid "Linaera"
-msgstr "Linaeras død"
+msgstr "Linaera"
 
 #: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:180
 msgid ""
@@ -424,9 +418,8 @@ msgid "A Detour through the Swamp"
 msgstr "En omvej igennem sumpen"
 
 #: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:138
-#, fuzzy
 msgid "Keremal"
-msgstr "Besejr Keremal"
+msgstr "Keremal"
 
 #: An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:151
 msgid ""
@@ -487,9 +480,8 @@ msgid "Showdown"
 msgstr "I gang"
 
 #: An_Orcish_Incursion/scenarios/7_Showdown.cfg:169
-#, fuzzy
 msgid "Rualsha-Tan"
-msgstr "Besejr Rualsha-Tan"
+msgstr "Rualsha-Tan"
 
 #: An_Orcish_Incursion/scenarios/7_Showdown.cfg:183
 msgid ""
