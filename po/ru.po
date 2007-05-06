@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-09-04 20:16+0200\n"
+"POT-Creation-Date: 2007-05-06 04:35+0200\n"
 "PO-Revision-Date: 2005-09-17 11:15-0800\n"
 "Last-Translator: nikita <dmcadmin@gmail.com>\n"
 "Language-Team: none\n"
@@ -55,12 +55,12 @@ msgstr "Защитите лес"
 msgid "Erlornas"
 msgstr "Смерть Эрлорнаса"
 
-#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:164
+#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:156
 #, fuzzy
 msgid "Urugha"
 msgstr "Поражение Уругха"
 
-#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:177
+#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:169
 msgid ""
 "Hint:\n"
 "Elves can move fast and safely among the trees. Pick off the enemy grunts "
@@ -70,7 +70,7 @@ msgstr ""
 "Эльфы могут двигаться быстро и безопасно сквозь деревья. Убейте вражеских "
 "новобранцев вашими лучниками из безопасного леса."
 
-#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:180
+#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:172
 msgid "Defeat Urugha"
 msgstr "Поражение Уругха"
 
@@ -80,7 +80,7 @@ msgstr "Поражение Уругха"
 #: An_Orcish_Incursion/scenarios/7_Showdown.cfg:190
 #: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:187
 #: An_Orcish_Incursion/scenarios/3_Wasteland.cfg:169
-#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:184
+#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:176
 msgid "Death of Erlornas"
 msgstr "Смерть Эрлорнаса"
 
@@ -90,18 +90,18 @@ msgstr "Смерть Эрлорнаса"
 #: An_Orcish_Incursion/scenarios/7_Showdown.cfg:194
 #: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:195
 #: An_Orcish_Incursion/scenarios/3_Wasteland.cfg:173
-#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:188
+#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:180
 msgid "Time runs out"
 msgstr "Закончились ходы"
 
-#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:222
+#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:214
 msgid ""
 "Look, Erlornas! A war party of orcs has encamped to the north. They are "
 "destroying the forest there!"
 msgstr ""
 "Смотри, Эрлорнас! Отряд орков расположился на севере. Они разрушают лес!"
 
-#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:227
+#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:219
 msgid ""
 "I see them... we should be able to drive them off. All the same, you had "
 "best send for reinforcements, Lomarfel."
@@ -109,11 +109,11 @@ msgstr ""
 "Я вижу их... мы можем прогнать их. Все равно, Вам лучше всего послать за "
 "подкреплением, Ломарфэль."
 
-#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:232
+#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:224
 msgid "Yes, sir!"
 msgstr "Есть."
 
-#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:265
+#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:257
 msgid ""
 "A thousand curses on you, elfling! You will suffer... My master, Rualsha, "
 "approaches. He will wipe your people from the face of this earth!"
@@ -121,7 +121,7 @@ msgstr ""
 "Тысяча проклятий на вас, элфы! Вы пострадаете... Мой хозяин, Руалша, "
 "приближается. Он сотрет ваших эльфов с лица земли!"
 
-#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:270
+#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:262
 msgid ""
 "Hmmm... Who is this Rualsha, I wonder? I will have to take a small "
 "exploration party north to see what is afoot there..."
@@ -129,11 +129,11 @@ msgstr ""
 "Гммм... Кто этот Руалша? Надо направить небольшой исследовательский отряд на "
 "на север, чтобы увидеть что там..."
 
-#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:279
+#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:271
 msgid "Far in the north of Wesnoth was an Elven forest."
 msgstr ""
 
-#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:291
+#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:283
 msgid "One sunny day, orcs were sighted in the Elven forest."
 msgstr ""
 

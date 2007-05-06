@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Battle of Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-09-04 20:16+0200\n"
+"POT-Creation-Date: 2007-05-06 04:35+0200\n"
 "PO-Revision-Date: 2006-09-05 13:53+0200\n"
 "Last-Translator: Oto 'tapik' Buchta <tapik@buchtovi.cz>\n"
 "Language-Team: Czech <wesnoth-cs-l@buchtovi.cz>\n"
@@ -62,11 +62,11 @@ msgstr "Braň les"
 msgid "Erlornas"
 msgstr "Erlonas"
 
-#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:164
+#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:156
 msgid "Urugha"
 msgstr "Urugha"
 
-#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:177
+#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:169
 msgid ""
 "Hint:\n"
 "Elves can move fast and safely among the trees. Pick off the enemy grunts "
@@ -76,7 +76,7 @@ msgstr ""
 "Elfové se dokáží pohybovat mezi stromy rychle a bezpečně. Ostřeluj se svými "
 "lučištníky nepřátelské pěšáky z bezpečí lesa."
 
-#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:180
+#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:172
 msgid "Defeat Urugha"
 msgstr "Poraz Urughu"
 
@@ -86,7 +86,7 @@ msgstr "Poraz Urughu"
 #: An_Orcish_Incursion/scenarios/7_Showdown.cfg:190
 #: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:187
 #: An_Orcish_Incursion/scenarios/3_Wasteland.cfg:169
-#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:184
+#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:176
 msgid "Death of Erlornas"
 msgstr "Erlonas zemře"
 
@@ -96,11 +96,11 @@ msgstr "Erlonas zemře"
 #: An_Orcish_Incursion/scenarios/7_Showdown.cfg:194
 #: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:195
 #: An_Orcish_Incursion/scenarios/3_Wasteland.cfg:173
-#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:188
+#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:180
 msgid "Time runs out"
 msgstr "Dojdou tahy"
 
-#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:222
+#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:214
 msgid ""
 "Look, Erlornas! A war party of orcs has encamped to the north. They are "
 "destroying the forest there!"
@@ -108,7 +108,7 @@ msgstr ""
 "Podívej, Erlornasi! Na severu se utábořila válečná skupina skřetů. Ničí tam "
 "les!"
 
-#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:227
+#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:219
 msgid ""
 "I see them... we should be able to drive them off. All the same, you had "
 "best send for reinforcements, Lomarfel."
@@ -116,11 +116,11 @@ msgstr ""
 "Vidím je... měli bychom být schopni je zahnat. Stejně tě pošlu pro posily, "
 "Lomarfele."
 
-#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:232
+#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:224
 msgid "Yes, sir!"
 msgstr "Ano, pane!"
 
-#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:265
+#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:257
 msgid ""
 "A thousand curses on you, elfling! You will suffer... My master, Rualsha, "
 "approaches. He will wipe your people from the face of this earth!"
@@ -128,7 +128,7 @@ msgstr ""
 "Buď proklet tisíckrát, elfátko! Budeš trpět... Můj pán, Rualsha, se blíží. "
 "Smete tvůj lid z tváře země!"
 
-#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:270
+#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:262
 msgid ""
 "Hmmm... Who is this Rualsha, I wonder? I will have to take a small "
 "exploration party north to see what is afoot there..."
@@ -136,11 +136,11 @@ msgstr ""
 "Hmmm... Zajímalo by mě, kdo je Rualsha? Budu muset podniknout malou "
 "průzkumnou výpravu na sever, abych zjistil, co se tam chystá..."
 
-#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:279
+#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:271
 msgid "Far in the north of Wesnoth was an Elven forest."
 msgstr "Daleko na severu Wesnothu byl elfí les."
 
-#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:291
+#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:283
 msgid "One sunny day, orcs were sighted in the Elven forest."
 msgstr "Jednoho slunečného dne byli v elfím lese spatřeni skřeti."
 

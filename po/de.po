@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Orcish_Incursion 0.1\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-09-04 20:16+0200\n"
+"POT-Creation-Date: 2007-05-06 04:35+0200\n"
 "PO-Revision-Date: 2006-09-04 21:40+0200\n"
 "Last-Translator: David Philippi <david@torangan.de>\n"
 "Language-Team: de <david@torangan.de>\n"
@@ -52,11 +52,11 @@ msgstr "Verteidigt den Wald"
 msgid "Erlornas"
 msgstr "Erlornas"
 
-#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:164
+#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:156
 msgid "Urugha"
 msgstr "Urugha"
 
-#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:177
+#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:169
 msgid ""
 "Hint:\n"
 "Elves can move fast and safely among the trees. Pick off the enemy grunts "
@@ -67,7 +67,7 @@ msgstr ""
 "feindlichen Grunzer aus der Sicherheit des Waldes heraus mit Euren "
 "Bogenschützen."
 
-#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:180
+#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:172
 msgid "Defeat Urugha"
 msgstr "Besiegt Urugha"
 
@@ -77,7 +77,7 @@ msgstr "Besiegt Urugha"
 #: An_Orcish_Incursion/scenarios/7_Showdown.cfg:190
 #: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:187
 #: An_Orcish_Incursion/scenarios/3_Wasteland.cfg:169
-#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:184
+#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:176
 msgid "Death of Erlornas"
 msgstr "Erlornas fällt in der Schlacht"
 
@@ -87,11 +87,11 @@ msgstr "Erlornas fällt in der Schlacht"
 #: An_Orcish_Incursion/scenarios/7_Showdown.cfg:194
 #: An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:195
 #: An_Orcish_Incursion/scenarios/3_Wasteland.cfg:173
-#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:188
+#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:180
 msgid "Time runs out"
 msgstr "Rundenlimit überschritten"
 
-#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:222
+#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:214
 msgid ""
 "Look, Erlornas! A war party of orcs has encamped to the north. They are "
 "destroying the forest there!"
@@ -99,7 +99,7 @@ msgstr ""
 "Sieh nur, Erlornas. Ein Kriegstrupp der Orks hat im Norden ein Lager "
 "errichtet. Sie zerstören den Wald dort!"
 
-#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:227
+#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:219
 msgid ""
 "I see them... we should be able to drive them off. All the same, you had "
 "best send for reinforcements, Lomarfel."
@@ -107,11 +107,11 @@ msgstr ""
 "Ich sehe sie. Wir sollten in der Lage sein, sie zu vertreiben. Dessen "
 "ungeachtet, solltet ihr Verstärkung rufen, Lomarfel."
 
-#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:232
+#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:224
 msgid "Yes, sir!"
 msgstr "Jawohl, mein Herr."
 
-#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:265
+#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:257
 msgid ""
 "A thousand curses on you, elfling! You will suffer... My master, Rualsha, "
 "approaches. He will wipe your people from the face of this earth!"
@@ -119,7 +119,7 @@ msgstr ""
 "Tausend Flüche auf dich, Elfling! Ihr werdet leiden... Mein Meister Rualsha "
 "nähert sich. Wir werden euch vom Angesicht dieser Erde tilgen!"
 
-#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:270
+#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:262
 msgid ""
 "Hmmm... Who is this Rualsha, I wonder? I will have to take a small "
 "exploration party north to see what is afoot there..."
@@ -128,11 +128,11 @@ msgstr ""
 "Erkundungstruppe nach Norden führen müssen, um herauszufinden was dort "
 "vorgeht..."
 
-#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:279
+#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:271
 msgid "Far in the north of Wesnoth was an Elven forest."
 msgstr "Weit im Norden von Wesnoth gab es einen Elfenwald."
 
-#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:291
+#: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:283
 msgid "One sunny day, orcs were sighted in the Elven forest."
 msgstr "Eines sonnigen Tages wurden Orks im Elfenwald gesichtet."
 

@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2006-09-04 20:16+0200\n"
+"POT-Creation-Date: 2007-05-06 04:35+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -46,53 +46,53 @@ msgstr ""
 msgid "Erlornas"
 msgstr ""
 
-#: ./An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:164
+#: ./An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:156
 msgid "Urugha"
 msgstr ""
 
-#: ./An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:177
+#: ./An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:169
 msgid ""
 "Hint:\n"
 "Elves can move fast and safely among the trees. Pick off the enemy grunts with your archers from the safety of the forest."
 msgstr ""
 
-#: ./An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:180
+#: ./An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:172
 msgid "Defeat Urugha"
 msgstr ""
 
-#: ./An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:210 ./An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:158 ./An_Orcish_Incursion/scenarios/2_Assassins.cfg:170 ./An_Orcish_Incursion/scenarios/7_Showdown.cfg:190 ./An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:187 ./An_Orcish_Incursion/scenarios/3_Wasteland.cfg:169 ./An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:184
+#: ./An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:210 ./An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:158 ./An_Orcish_Incursion/scenarios/2_Assassins.cfg:170 ./An_Orcish_Incursion/scenarios/7_Showdown.cfg:190 ./An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:187 ./An_Orcish_Incursion/scenarios/3_Wasteland.cfg:169 ./An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:176
 msgid "Death of Erlornas"
 msgstr ""
 
-#: ./An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:214 ./An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:166 ./An_Orcish_Incursion/scenarios/2_Assassins.cfg:174 ./An_Orcish_Incursion/scenarios/7_Showdown.cfg:194 ./An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:195 ./An_Orcish_Incursion/scenarios/3_Wasteland.cfg:173 ./An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:188
+#: ./An_Orcish_Incursion/scenarios/4_Valley_of_Trolls.cfg:214 ./An_Orcish_Incursion/scenarios/6_A_Detour_through_the_Swamp.cfg:166 ./An_Orcish_Incursion/scenarios/2_Assassins.cfg:174 ./An_Orcish_Incursion/scenarios/7_Showdown.cfg:194 ./An_Orcish_Incursion/scenarios/5_Linaera_the_Quick.cfg:195 ./An_Orcish_Incursion/scenarios/3_Wasteland.cfg:173 ./An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:180
 msgid "Time runs out"
 msgstr ""
 
-#: ./An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:222
+#: ./An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:214
 msgid "Look, Erlornas! A war party of orcs has encamped to the north. They are destroying the forest there!"
 msgstr ""
 
-#: ./An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:227
+#: ./An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:219
 msgid "I see them... we should be able to drive them off. All the same, you had best send for reinforcements, Lomarfel."
 msgstr ""
 
-#: ./An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:232
+#: ./An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:224
 msgid "Yes, sir!"
 msgstr ""
 
-#: ./An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:265
+#: ./An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:257
 msgid "A thousand curses on you, elfling! You will suffer... My master, Rualsha, approaches. He will wipe your people from the face of this earth!"
 msgstr ""
 
-#: ./An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:270
+#: ./An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:262
 msgid "Hmmm... Who is this Rualsha, I wonder? I will have to take a small exploration party north to see what is afoot there..."
 msgstr ""
 
-#: ./An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:279
+#: ./An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:271
 msgid "Far in the north of Wesnoth was an Elven forest."
 msgstr ""
 
-#: ./An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:291
+#: ./An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:283
 msgid "One sunny day, orcs were sighted in the Elven forest."
 msgstr ""
 
