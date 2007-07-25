@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: wescamp-i 18n\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2007-05-06 04:35+0200\n"
-"PO-Revision-Date: 2006-09-29 23:21+0200\n"
+"PO-Revision-Date: 2007-07-25 18:00+0200\n"
 "Last-Translator: Stefan Bergström (tephlon) <stefan DOT bergstrom AT gmail "
 "DOT com>\n"
 "Language-Team: Swedish\n"
@@ -90,7 +90,7 @@ msgstr "Erlornas dör"
 #: An_Orcish_Incursion/scenarios/3_Wasteland.cfg:173
 #: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:180
 msgid "Time runs out"
-msgstr "Tiden tar slut"
+msgstr "Dragen tar slut"
 
 #: An_Orcish_Incursion/scenarios/1_Defend_the_Forest.cfg:214
 msgid ""
