@@ -1,9 +1,10 @@
+# Swedish translations for Battle for Wesnoth
 msgid ""
 msgstr ""
-"Project-Id-Version: wescamp-i 18n\n"
+"Project-Id-Version: Battle for Wesnoth\n"
 "Report-Msgid-Bugs-To: http://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2007-05-06 04:35+0200\n"
-"PO-Revision-Date: 2007-07-25 18:00+0200\n"
+"PO-Revision-Date: 2007-11-27 21:08+0100\n"
 "Last-Translator: Stefan Bergström (tephlon) <stefan DOT bergstrom AT gmail "
 "DOT com>\n"
 "Language-Team: Swedish\n"
@@ -15,7 +16,7 @@ msgstr ""
 
 #: An_Orcish_Incursion.cfg:10
 msgid "An Orcish Incursion"
-msgstr "Orchernas Räd"
+msgstr "Orchernas Invasion"
 
 #: An_Orcish_Incursion.cfg:13
 msgid "(hardest)"
